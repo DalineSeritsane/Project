@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 25px;
+color: yellowgreen;
+line-height: 1.6;
+}
+
+#showcase .button{
+    font-size: 18px;
+    text-decoration: none;
+    color: bisque;
+    border: solid;
+    border-color: bisque;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+#showcase .button{
+    background-color: bisque;
+    color: black;
+}
+
+
+
+#showcase{
+    background-image: url(Cattleya flowershop/showcase.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+header .navbar{
+    font-size: 2rem;
+    padding: 0 1.5rem;
+    color: blueviolet;
+
+}
+
+header .navbar {
+     color: purple;
+}
